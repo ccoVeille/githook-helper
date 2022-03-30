@@ -1,0 +1,8 @@
+words: 
+  - shellcheck
+  - shfmt
+  - setaf
+  - mktemp
+  - mkdir
+  - githook
+  - markdownlint
