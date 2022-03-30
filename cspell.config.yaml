@@ -1,8 +1,6 @@
+dictionaries:
+  - bash
 words: 
-  - shellcheck
-  - shfmt
-  - setaf
-  - mktemp
-  - mkdir
   - githook
   - markdownlint
+  - ccoVeille
